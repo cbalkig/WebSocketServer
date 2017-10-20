@@ -4,6 +4,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3",
     "socket.io-redis": "^5.2.0",
     "websocket": "^1.0.25",
     "ws": "^3.2.0"
